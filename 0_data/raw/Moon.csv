@@ -1,0 +1,487 @@
+sm_id,Year,Month,Day,Location,TIMEZONE,MoonRise,MoonSet,Phase,MoonSetDay,MoonRise2,MoonRise2Day,MoonRise2Month
+7758,2014,6,1,Carp,Eastern,8:54:00 AM,11:32:00 PM,Evening Crescent,1,9:51:00 AM,2,6
+7758,2014,6,5,Carp,Eastern,12:47:00 PM,1:27:00 AM,First Quarter,6,,,
+7758,2014,6,9,Carp,Eastern,5:00:00 PM,3:29:00 AM,Waxing Gibbous,10,,,
+7758,2014,6,13,Carp,Eastern,9:17:00 PM,7:02:00 AM,Full,14,,,
+7758,2014,6,17,Carp,Eastern,,11:53:00 AM,Waning Gibbous,18,12:07:00 AM,18,6
+7758,2014,6,21,Carp,Eastern,1:41:00 AM,3:20:00 PM,Morning Crescent,21,2:14:00 AM,22,6
+7758,2014,6,25,Carp,Eastern,4:11:00 AM,7:22:00 PM,Morning Crescent,25,4:59:00 AM,26,6
+7758,2014,6,29,Carp,Eastern,7:42:00 AM,10:06:00 PM,Evening Crescent,29,8:40:00 AM,30,6
+7758,2014,7,3,Carp,Eastern,11:36:00 AM,11:57:00 PM,Evening Crescent,3,,,
+7758,2014,7,7,Carp,Eastern,3:47:00 PM,2:02:00 AM,Waxing Gibbous,8,,,
+7758,2014,7,11,Carp,Eastern,7:56:00 PM,5:49:00 AM,Waxing Gibbous,12,,,
+7758,2014,7,15,Carp,Eastern,10:41:00 PM,10:49:00 AM,Waning Gibbous,16,,,
+7758,2014,7,19,Carp,Eastern,12:18:00 AM,2:18:00 PM,Morning Crescent,19,12:52:00 AM,20,7
+7758,2014,7,23,Carp,Eastern,2:56:00 AM,6:08:00 PM,Morning Crescent,23,3:46:00 AM,24,7
+7758,2014,7,27,Carp,Eastern,6:33:00 AM,8:40:00 PM,Evening Crescent,27,7:31:00 AM,28,7
+7758,2014,7,31,Carp,Eastern,10:27:00 AM,10:28:00 PM,Evening Crescent,31,11:28:00 AM,1,8
+7758,2014,8,4,Carp,Eastern,2:36:00 PM,12:39:00 AM,Waxing Gibbous,5,,,
+7758,2014,8,8,Carp,Eastern,6:32:00 PM,4:36:00 AM,Waxing Gibbous,9,,,
+7758,2014,8,12,Carp,Eastern,9:11:00 PM,9:41:00 AM,Waning Gibbous,13,,,
+7758,2014,8,16,Carp,Eastern,11:30:00 PM,2:14:00 PM,Waning Gibbous,17,,,
+7758,2014,8,20,Carp,Eastern,1:44:00 AM,4:52:00 PM,Morning Crescent,20,2:36:00 AM,21,8
+13525,2014,6,1,Timmins,Eastern,9:09:00 AM,12:02:00 AM,Evening Crescent,2,,,
+13525,2014,6,5,Timmins,Eastern,1:09:00 PM,1:50:00 AM,First Quarter,6,,,
+13525,2014,6,9,Timmins,Eastern,5:29:00 PM,3:45:00 AM,Waxing Gibbous,10,,,
+13525,2014,6,13,Timmins,Eastern,9:49:00 PM,7:16:00 AM,Full,14,,,
+13525,2014,6,17,Timmins,Eastern,,11:00:00 AM,Waning Gibbous,17,12:32:00 AM,18,6
+13525,2014,6,21,Timmins,Eastern,2:01:00 AM,3:48:00 PM,Morning Crescent,21,2:31:00 AM,22,6
+13525,2014,6,25,Timmins,Eastern,4:25:00 AM,7:55:00 PM,Morning Crescent,25,5:12:00 AM,26,6
+13525,2014,6,29,Timmins,Eastern,7:58:00 AM,10:35:00 PM,Evening Crescent,29,8:57:00 AM,30,6
+13525,2014,7,3,Timmins,Eastern,11:59:00 AM,12:19:00 AM,Evening Crescent,4,,,
+13525,2014,7,7,Timmins,Eastern,4:17:00 PM,2:18:00 AM,Waxing Gibbous,8,,,
+13525,2014,7,11,Timmins,Eastern,8:28:00 PM,6:04:00 AM,Waxing Gibbous,12,,,
+13525,2014,7,15,Timmins,Eastern,11:05:00 PM,11:13:00 AM,Waning Gibbous,16,,,
+13525,2014,7,19,Timmins,Eastern,12:36:00 AM,2:47:00 PM,Morning Crescent,19,1:08:00 AM,20,7
+13525,2014,7,23,Timmins,Eastern,3:10:00 AM,6:41:00 PM,Morning Crescent,23,4:00:00 AM,24,7
+13525,2014,7,27,Timmins,Eastern,6:50:00 AM,9:08:00 PM,Evening Crescent,27,7:49:00 AM,28,7
+13525,2014,7,31,Timmins,Eastern,10:51:00 AM,10:49:00 PM,Evening Crescent,31,11:53:00 AM,1,8
+13525,2014,8,4,Timmins,Eastern,3:07:00 PM,12:54:00 AM,Waxing Gibbous,5,,,
+13525,2014,8,8,Timmins,Eastern,7:03:00 PM,4:52:00 AM,Waxing Gibbous,9,,,
+13525,2014,8,12,Timmins,Eastern,9:34:00 PM,10:06:00 AM,Waning Gibbous,13,,,
+13525,2014,8,16,Timmins,Eastern,11:46:00 PM,2:46:00 PM,Waning Gibbous,17,,,
+13525,2014,8,20,Timmins,Eastern,1:57:00 AM,5:24:00 PM,Morning Crescent,20,2:50:00 AM,21,8
+7689,2014,6,1,Gordon Creek,Eastern,9:28:00 AM,12:34:00 AM,Evening Crescent,2,,,
+7689,2014,6,5,Gordon Creek,Eastern,1:34:00 PM,2:16:00 AM,First Quarter,6,,,
+7689,2014,6,9,Gordon Creek,Eastern,6:01:00 PM,4:04:00 AM,Waxing Gibbous,10,,,
+7689,2014,6,13,Gordon Creek,Eastern,10:23:00 PM,7:34:00 AM,Full,14,,,
+7689,2014,6,17,Gordon Creek,Eastern,12:30:00 AM,11:23:00 AM,Waning Gibbous,17,1:00:00 AM,18,6
+7689,2014,6,21,Gordon Creek,Eastern,2:23:00 AM,4:19:00 PM,Morning Crescent,21,2:52:00 AM,22,6
+7689,2014,6,25,Gordon Creek,Eastern,4:42:00 AM,8:29:00 PM,Morning Crescent,25,5:29:00 AM,26,6
+7689,2014,6,29,Gordon Creek,Eastern,8:18:00 AM,11:06:00 PM,Evening Crescent,29,9:18:00 AM,30,6
+7689,2014,7,3,Gordon Creek,Eastern,12:25:00 PM,12:44:00 AM,Evening Crescent,4,,,
+7689,2014,7,7,Gordon Creek,Eastern,4:49:00 PM,2:37:00 AM,Waxing Gibbous,8,,,
+7689,2014,7,11,Gordon Creek,Eastern,9:02:00 PM,6:22:00 AM,Waxing Gibbous,12,,,
+7689,2014,7,15,Gordon Creek,Eastern,11:32:00 PM,11:39:00 AM,Waning Gibbous,16,,,
+7689,2014,7,19,Gordon Creek,Eastern,12:57:00 AM,3:19:00 PM,Morning Crescent,19,1:28:00 AM,20,7
+7689,2014,7,23,Gordon Creek,Eastern,3:27:00 AM,7:15:00 PM,Morning Crescent,23,4:17:00 AM,24,7
+7689,2014,7,27,Gordon Creek,Eastern,7:10:00 AM,9:38:00 PM,Evening Crescent,27,8:11:00 AM,28,7
+7689,2014,7,31,Gordon Creek,Eastern,11:18:00 AM,11:14:00 PM,Evening Crescent,31,12:22:00 PM,1,8
+7689,2014,8,4,Gordon Creek,Eastern,3:40:00 PM,1:13:00 AM,Waxing Gibbous,5,,,
+7689,2014,8,8,Gordon Creek,Eastern,7:36:00 PM,5:11:00 AM,Waxing Gibbous,9,,,
+7689,2014,8,12,Gordon Creek,Eastern,10:00:00 PM,10:33:00 AM,Waning Gibbous,13,,,
+7689,2014,8,16,Gordon Creek,Eastern,,3:19:00 PM,Waning Gibbous,17,12:05:00 AM,17,8
+7689,2014,8,20,Gordon Creek,Eastern,2:15:00 AM,5:57:00 PM,Morning Crescent,20,3:08:00 AM,21,8
+13512,2014,6,1,Musselwhite,Central,8:32:00 AM,11:50:00 PM,Evening Crescent,1,9:33:00 AM,2,6
+13512,2014,6,5,Musselwhite,Central,12:43:00 PM,1:27:00 AM,First Quarter,6,,,
+13512,2014,6,9,Musselwhite,Central,5:17:00 PM,3:09:00 AM,Waxing Gibbous,10,,,
+13512,2014,6,13,Musselwhite,Central,9:42:00 PM,6:37:00 AM,Waning Gibbous,14,,,
+13512,2014,6,17,Musselwhite,Central,,10:31:00 AM,Waning Gibbous,17,12:13:00 AM,18,6
+13512,2014,6,21,Musselwhite,Central,1:31:00 AM,3:34:00 PM,Morning Crescent,21,1:58:00 AM,22,6
+13512,2014,6,25,Musselwhite,Central,3:45:00 AM,7:48:00 PM,Morning Crescent,25,4:32:00 AM,26,6
+13512,2014,6,29,Musselwhite,Central,7:22:00 AM,10:22:00 PM,Evening Crescent,29,8:24:00 AM,30,6
+13512,2014,7,3,Musselwhite,Central,11:35:00 AM,11:54:00 PM,Evening Crescent,3,12:40:00 PM,4,7
+13512,2014,7,7,Musselwhite,Central,4:06:00 PM,1:41:00 AM,Waxing Gibbous,8,,,
+13512,2014,7,11,Musselwhite,Central,8:20:00 PM,5:26:00 AM,Waxing Gibbous,12,,,
+13512,2014,7,15,Musselwhite,Central,10:43:00 PM,10:49:00 AM,Waning Gibbous,16,,,
+13512,2014,7,19,Musselwhite,Central,12:04:00 AM,2:34:00 PM,Morning Crescent,19,12:33:00 AM,20,8
+13512,2014,7,23,Musselwhite,Central,2:30:00 AM,6:34:00 PM,Morning Crescent,23,3:20:00 AM,24,8
+13512,2014,7,27,Musselwhite,Central,6:16:00 AM,8:53:00 PM,Evening Crescent,27,7:18:00 AM,28,8
+13512,2014,7,31,Musselwhite,Central,10:29:00 AM,10:23:00 PM,Evening Crescent,31,11:35:00 AM,1,8
+13512,2014,8,4,Musselwhite,Central,2:57:00 PM,12:16:00 AM,Waxing Gibbous,5,,,
+13512,2014,8,8,Musselwhite,Central,6:54:00 PM,4:15:00 AM,Waxing Gibbous,9,,,
+13512,2014,8,12,Musselwhite,Central,9:11:00 PM,9:44:00 AM,Waning Gibbous,13,,,
+13512,2014,8,16,Musselwhite,Central,11:09:00 PM,2:37:00 PM,Waning Gibbous,17,,,
+13512,2014,8,20,Musselwhite,Central,1:18:00 AM,5:16:00 PM,Morning Crescent,20,2:11:00 AM,21,8
+12011,2014,6,1,Washagami Lake,Eastern,9:09:00 AM,11:54:00 PM,Evening Crescent,1,10:07:00 AM,2,6
+12011,2014,6,5,Washagami Lake,Eastern,1:05:00 PM,1:46:00 AM,First Quarter,6,,,
+12011,2014,6,9,Washagami Lake,Eastern,5:21:00 PM,3:44:00 AM,Waxing Gibbous,10,,,
+12011,2014,6,13,Washagami Lake,Eastern,9:39:00 PM,7:16:00 AM,Full,14,,,
+12011,2014,6,17,Washagami Lake,Eastern,,10:57:00 AM,Waning Gibbous,17,12:27:00 AM,18,6
+12011,2014,6,21,Washagami Lake,Eastern,1:58:00 AM,3:41:00 PM,Morning Crescent,21,2:30:00 AM,22,6
+12011,2014,6,25,Washagami Lake,Eastern,4:25:00 AM,7:45:00 PM,Morning Crescent,25,5:13:00 AM,26,6
+12011,2014,6,29,Washagami Lake,Eastern,7:58:00 AM,10:27:00 PM,Evening Crescent,29,8:56:00 AM,30,6
+12011,2014,7,3,Washagami Lake,Eastern,11:55:00 AM,,Evening Crescent,4,,,
+12011,2014,7,7,Washagami Lake,Eastern,4:09:00 PM,2:17:00 AM,Waxing Gibbous,8,,,
+12011,2014,7,11,Washagami Lake,Eastern,8:18:00 PM,6:04:00 AM,Waxing Gibbous,12,,,
+12011,2014,7,15,Washagami Lake,Eastern,11:00:00 PM,11:08:00 AM,Waning Gibbous,16,,,
+12011,2014,7,19,Washagami Lake,Eastern,12:34:00 AM,2:39:00 PM,Morning Crescent,19,1:08:00 AM,20,7
+12011,2014,7,23,Washagami Lake,Eastern,3:11:00 AM,6:31:00 PM,Morning Crescent,23,4:01:00 AM,24,7
+12011,2014,7,27,Washagami Lake,Eastern,6:49:00 AM,9:00:00 PM,Evening Crescent,27,7:47:00 AM,28,7
+12011,2014,7,31,Washagami Lake,Eastern,10:46:00 AM,10:46:00 PM,Evening Crescent,31,11:46:00 AM,1,8
+12011,2014,8,4,Washagami Lake,Eastern,2:58:00 PM,12:54:00 AM,Waxing Gibbous,5,,,
+12011,2014,8,8,Washagami Lake,Eastern,6:54:00 PM,4:52:00 AM,Waxing Gibbous,9,,,
+12011,2014,8,12,Washagami Lake,Eastern,9:30:00 PM,10:01:00 AM,Waning Gibbous,13,,,
+12011,2014,8,16,Washagami Lake,Eastern,11:46:00 PM,2:36:00 PM,Waning Gibbous,17,,,
+12011,2014,8,20,Washagami Lake,Eastern,1:58:00 AM,7:14:00 AM,Morning Crescent,20,2:50:00 AM,21,8
+12121,2014,6,1,Wanless,Central,9:11:00 AM,12:40:00 AM,Evening Crescent,2,,,
+12121,2014,6,5,Wanless,Central,1:28:00 PM,2:11:00 AM,First Quarter,6,,,
+12121,2014,6,9,Wanless,Central,6:07:00 PM,3:48:00 AM,Waxing Gibbous,10,,,
+12121,2014,6,13,Wanless,Central,10:34:00 PM,7:15:00 AM,Waning Gibbous,13,,,
+12121,2014,6,17,Wanless,Central,12:31:00 AM,11:13:00 AM,Waning Gibbous,17,12:59:00 AM,18,6
+12121,2014,6,21,Wanless,Central,2:12:00 AM,4:22:00 PM,Morning Crescent,21,2:38:00 AM,22,6
+12121,2014,6,25,Wanless,Central,4:22:00 AM,8:40:00 PM,Morning Crescent,25,5:09:00 AM,26,6
+12121,2014,6,29,Wanless,Central,8:02:00 AM,11:11:00 PM,Evening Crescent,29,9:05:00 AM,30,6
+12121,2014,7,3,Wanless,Central,12:20:00 PM,12:38:00 AM,Evening Crescent,4,,,
+12121,2014,7,7,Wanless,Central,4:57:00 PM,2:19:00 AM,Waxing Gibbous,8,,,
+12121,2014,7,11,Wanless,Central,9:11:00 PM,6:05:00 AM,Waxing Gibbous,12,,,
+12121,2014,7,15,Wanless,Central,11:28:00 PM,11:35:00 AM,Waning Gibbous,16,,,
+12121,2014,7,19,Wanless,Central,12:44:00 AM,3:24:00 PM,Morning Crescent,19,1:13:00 AM,20,7
+12121,2014,7,23,Wanless,Central,3:07:00 AM,7:26:00 PM,Morning Crescent,23,3:57:00 AM,24,7
+12121,2014,7,27,Wanless,Central,6:56:00 AM,9:41:00 PM,Evening Crescent,27,8:00:00 AM,28,7
+12121,2014,7,31,Wanless,Central,11:15:00 AM,11:05:00 PM,Evening Crescent,31,12:22:00 PM,1,8
+12121,2014,8,4,Wanless,Central,3:48:00 PM,12:54:00 AM,Waxing Gibbous,5,,,
+12121,2014,8,8,Wanless,Central,7:45:00 PM,4:55:00 AM,Waxing Gibbous,9,,,
+12121,2014,8,12,Wanless,Central,9:55:00 PM,10:31:00 AM,Waning Gibbous,13,,,
+12121,2014,8,16,Wanless,Central,11:48:00 PM,3:28:00 PM,Waning Gibbous,17,,,
+12121,2014,8,20,Wanless,Central,1:55:00 AM,6:07:00 PM,Morning Crescent,20,2:49:00 AM,21,8
+13523,2014,6,1,Tibbitt Lake,Mountain,8:19:00 AM,1:05:00 AM,Evening Crescent,2,,,
+13523,2014,6,5,Tibbitt Lake,Mountain,1:12:00 PM,2:02:00 AM,Waxing Gibbous,6,,,
+13523,2014,6,9,Tibbitt Lake,Mountain,6:31:00 PM,3:02:00 AM,Waxing Gibbous,10,,,
+13523,2014,6,13,Tibbitt Lake,Mountain,11:16:00 PM,6:16:00 AM,Waning Gibbous,14,,,
+13523,2014,6,17,Tibbitt Lake,Mountain,12:43:00 AM,10:46:00 AM,Waning Gibbous,17,1:00:00 AM,18,6
+13523,2014,6,21,Tibbitt Lake,Mountain,1:43:00 AM,4:38:00 PM,Morning Crescent,21,2:00:00 AM,22,6
+13523,2014,6,25,Tibbitt Lake,Mountain,3:21:00 AM,9:24:00 PM,Morning Crescent,25,4:06:00 AM,26,6
+13523,2014,6,29,Tibbitt Lake,Mountain,7:15:00 AM,11:31:00 PM,Evening Crescent,29,8:27:00 AM,30,6
+13523,2014,7,3,Tibbitt Lake,Mountain,12:09:00 PM,12:24:00 AM,Evening Crescent,4,,,
+13523,2014,7,7,Tibbitt Lake,Mountain,5:26:00 PM,1:29:00 AM,Waxing Gibbous,8,,,
+13523,2014,7,11,Tibbitt Lake,Mountain,9:50:00 PM,5:09:00 AM,Waxing Gibbouse,12,,,
+13523,2014,7,15,Tibbitt Lake,Mountain,11:23:00 PM,11:25:00 AM,Waning Gibbous,16,,,
+13523,2014,7,19,Tibbitt Lake,Mountain,12:09:00 AM,3:46:00 PM,Morning Crescent,19,12:28:00 AM,20,7
+13523,2014,7,23,Tibbitt Lake,Mountain,2:04:00 AM,8:09:00 PM,Morning Crescent,23,2:56:00 AM,24,7
+13523,2014,7,27,Tibbitt Lake,Mountain,6:15:00 AM,9:56:00 PM,Evening Crescent,27,7:28:00 AM,28,7
+13523,2014,7,31,Tibbitt Lake,Mountain,11:10:00 AM,10:46:00 PM,Evening Crescent,31,12:26:00 PM,1,8
+13523,2014,8,4,Tibbitt Lake,Mountain,4:22:00 PM,,Waxing Gibbous,5,,,
+13523,2014,8,8,Tibbitt Lake,Mountain,8:19:00 PM,4:04:00 AM,Waxing Gibbous,9,,,
+13523,2014,8,12,Tibbitt Lake,Mountain,9:45:00 PM,10:27:00 AM,Waning Gibbous,13,,,
+13523,2014,8,16,Tibbitt Lake,Mountain,10:59:00 PM,4:04:00 PM,Waning Gibbous,17,,,
+13523,2014,8,20,Tibbitt Lake,Mountain,12:53:00 AM,6:47:00 PM,Morning Crescent,20,1:50:00 AM,21,8
+7524,2014,6,1,Black Lake,Central,8:10:00 AM,,Evening Crescent,2,,,
+7524,2014,6,5,Black Lake,Central,12:44:00 PM,1:31:00 AM,First Quarter,6,,,
+7524,2014,6,9,Black Lake,Central,5:43:00 PM,2:50:00 AM,Waxing Gibbous,10,,,
+7524,2014,6,13,Black Lake,Central,10:19:00 PM,6:10:00 AM,Waning Gibbous,14,,,
+7524,2014,6,17,Black Lake,Central,12:02:00 AM,10:24:00 AM,Waning Gibbous,17,12:24:00 AM,18,6
+7524,2014,6,21,Black Lake,Central,1:22:00 AM,3:55:00 PM,Morning Crescent,21,1:43:00 AM,22,6
+7524,2014,6,25,Black Lake,Central,3:16:00 AM,8:26:00 PM,Morning Crescent,25,4:03:00 AM,26,6
+7524,2014,6,29,Black Lake,Central,7:03:00 AM,10:45:00 PM,Evening Crescent,29,8:10:00 AM,30,6
+7524,2014,7,3,Black Lake,Central,11:39:00 AM,11:55:00 PM,Evening Crescent,4,12:50:00 PM,4,7
+7524,2014,7,7,Black Lake,Central,4:35:00 PM,1:19:00 AM,Waxing Gibbous,8,,,
+7524,2014,7,11,Black Lake,Central,8:54:00 PM,5:02:00 AM,Waxing Gibbous,12,,,
+7524,2014,7,15,Black Lake,Central,10:50:00 PM,10:54:00 AM,Waning Gibbous,16,,,
+7524,2014,7,19,Black Lake,Central,,2:59:00 PM,Morning Crescent,19,12:15:00 AM,20,7
+7524,2014,7,23,Black Lake,Central,2:01:00 AM,7:11:00 PM,Morning Crescent,23,2:52:00 AM,24,7
+7524,2014,7,27,Black Lake,Central,6:00:00 AM,9:13:00 PM,Evening Crescent,27,7:08:00 AM,28,7
+7524,2014,7,31,Black Lake,Central,10:37:00 AM,10:20:00 PM,Evening Crescent,31,11:48:00 AM,1,8
+7524,2014,8,4,Black Lake,Central,3:29:00 PM,11:52:00 PM,Waxing Gibbous,4,4:40:00 PM,5,8
+7524,2014,8,8,Black Lake,Central,7:26:00 PM,3:54:00 AM,Waxing Gibbous,9,,,
+7524,2014,8,12,Black Lake,Central,9:14:00 PM,9:53:00 AM,Waning Gibbous,13,,,
+7524,2014,8,16,Black Lake,Central,10:48:00 PM,3:10:00 PM,Waning Gibbous,17,,,
+7524,2014,8,20,Black Lake,Central,12:49:00 AM,5:51:00 PM,Morning Crescent,20,1:45:00 AM,21,8
+8245,2014,6,1,Schaffer Lake,Central,8:10:00 AM,11:59:00 PM,Evening Crescent,2,,,
+8245,2014,6,5,Schaffer Lake,Central,12:36:00 PM,1:22:00 AM,First Quarter,6,,,
+8245,2014,6,9,Schaffer Lake,Central,5:25:00 PM,2:49:00 AM,Waxing Gibbous,10,,,
+8245,2014,6,13,Schaffer Lake,Central,9:57:00 PM,6:13:00 AM,Waning Gibbous,14,,,
+8245,2014,6,17,Schaffer Lake,Central,,10:19:00 AM,Waning Gibbous,17,12:12:00 AM,18,6
+8245,2014,6,21,Schaffer Lake,Central,1:17:00 AM,3:39:00 PM,Morning Crescent,21,1:41:00 AM,22,6
+8245,2014,6,25,Schaffer Lake,Central,3:20:00 AM,8:03:00 PM,Morning Crescent,25,4:06:00 AM,26,6
+8245,2014,6,29,Schaffer Lake,Central,7:03:00 AM,10:28:00 PM,Evening Crescent,29,8:08:00 AM,30,6
+8245,2014,7,3,Schaffer Lake,Central,11:30:00 AM,11:47:00 PM,Evening Crescent,3,12:39:00 PM,4,7
+8245,2014,7,7,Schaffer Lake,Central,4:16:00 PM,1:19:00 AM,Waxing Gibbous,8,,,
+8245,2014,7,11,Schaffer Lake,Central,8:33:00 PM,5:03:00 AM,Waxing Gibbous,12,,,
+8245,2014,7,15,Schaffer Lake,Central,10:39:00 PM,10:45:00 AM,Waning Gibbous,16,,,
+8245,2014,7,19,Schaffer Lake,Central,,2:42:00 PM,Morning Crescent,19,12:14:00 AM,20,7
+8245,2014,7,23,Schaffer Lake,Central,2:04:00 AM,6:49:00 PM,Morning Crescent,23,2:55:00 AM,24,7
+8245,2014,7,27,Schaffer Lake,Central,5:58:00 AM,8:57:00 PM,Evening Crescent,27,7:04:00 AM,28,7
+8245,2014,7,31,Schaffer Lake,Central,10:26:00 AM,10:13:00 PM,Evening Crescent,31,11:35:00 AM,1,8
+8245,2014,8,4,Schaffer Lake,Central,3:09:00 PM,11:53:00 PM,Waxing Gibbous,4,4:19:00 PM,5,8
+8245,2014,8,8,Schaffer Lake,Central,7:06:00 PM,3:55:00 AM,Waxing Gibbous,9,,,
+8245,2014,8,12,Schaffer Lake,Central,9:05:00 PM,9:42:00 AM,Waning Gibbous,13,,,
+8245,2014,8,16,Schaffer Lake,Central,10:48:00 PM,2:49:00 PM,Waning Gibbous,17,,,
+8245,2014,8,20,Schaffer Lake,Central,12:52:00 AM,5:29:00 PM,Morning Crescent,20,1:47:00 AM,21,8
+9991,2014,6,1,PANPb,Central,8:30:00 AM,12:26:00 AM,Evening Crescent,3,,,
+9991,2014,6,5,PANPb,Central,12:48:00 PM,1:31:00 AM,First Quarter,6,,,
+9991,2014,6,9,PANPb,Central,5:27:00 PM,3:08:00 AM,Waxing Gibbous,10,,,
+9991,2014,6,13,PANPb,Central,9:54:00 PM,5:27:00 AM,Waning Gibbous,14,,,
+9991,2014,6,17,PANPb,Central,,10:33:00 AM,Waning Gibbous,17,12:18:00 AM,18,6
+9991,2014,6,21,PANPb,Central,1:31:00 AM,3:43:00 PM,Morning Crescent,21,1:57:00 AM,21,6
+9991,2014,6,25,PANPb,Central,3:41:00 AM,8:01:00 PM,Morning Crescent,25,4:28:00 AM,26,6
+9991,2014,6,29,PANPb,Central,7:22:00 AM,10:30:00 PM,Evening Crescent,29,8:25:00 AM,30,6
+9991,2014,7,3,PANPb,Central,11:40:00 AM,11:57:00 PM,Evening Crescent,3,12:47:00 PM,4,7
+9991,2014,7,7,PANPb,Central,4:17:00 PM,1:39:00 AM,Waxing Gibbous,8,,,
+9991,2014,7,11,PANPb,Central,8:32:00 PM,5:25:00 AM,Waxing Gibbous,12,,,
+9991,2014,7,15,PANPb,Central,10:48:00 PM,10:55:00 AM,Waning Gibbous,16,,,
+9991,2014,7,19,PANPb,Central,12:03:00 AM,2:44:00 PM,Morning Crescent,19,12:32:00 AM,20,7
+9991,2014,7,23,PANPb,Central,2:26:00 AM,6:46:00 PM,Morning Crescent,23,3:17:00 AM,24,7
+9991,2014,7,27,PANPb,Central,6:16:00 AM,9:00:00 PM,Evening Crescent,27,7:20:00 AM,28,7
+9991,2014,7,31,PANPb,Central,10:35:00 AM,10:25:00 PM,Evening Crescent,31,11:42:00 AM,1,8
+9991,2014,8,4,PANPb,Central,3:09:00 PM,12:14:00 AM,Waxing Gibbous,5,,,
+9991,2014,8,8,PANPb,Central,7:05:00 PM,4:15:00 AM,Waxing Gibbous,9,,,
+9991,2014,8,12,PANPb,Central,9:14:00 PM,9:51:00 AM,Waning Gibbous,13,,,
+9991,2014,8,16,PANPb,Central,11:07:00 PM,2:49:00 PM,Waning Gibbous,16,,,
+9991,2014,8,20,PANPb,Central,1:14:00 AM,5:27:00 PM,Morning Crescent,20,2:08:00 AM,21,8
+13588,2014,6,1,Behchoko,Mountain,8:29:00 AM,1:17:00 AM,Evening Crescent,2,,,
+13588,2014,6,5,Behchoko,Mountain,1:23:00 PM,2:13:00 AM,First Quarter,6,,,
+13588,2014,6,9,Behchoko,Mountain,6:44:00 PM,3:12:00 AM,Waxing Gibbous,10,,,
+13588,2014,6,13,Behchoko,Mountain,11:29:00 PM,6:25:00 AM,Waning Gibbous,14,,,
+13588,2014,6,17,Behchoko,Mountain,12:55:00 AM,10:57:00 AM,Waning Gibbous,17,1:11:00 AM,18,6
+13588,2014,6,21,Behchoko,Mountain,1:53:00 AM,4:51:00 PM,Morning Crescent,21,2:10:00 AM,22,6
+13588,2014,6,25,Behchoko,Mountain,3:30:00 AM,9:38:00 PM,Morning Crescent,25,4:15:00 AM,26,6
+13588,2014,6,29,Behchoko,Mountain,7:25:00 AM,11:43:00 PM,Evening Crescent,29,8:38:00 AM,30,6
+13588,2014,7,3,Behchoko,Mountain,12:21:00 PM,12:35:00 AM,Evening Crescent,4,,,
+13588,2014,7,7,Behchoko,Mountain,5:39:00 PM,1:39:00 AM,Waxing Gibbous,8,,,
+13588,2014,7,11,Behchoko,Mountain,10:03:00 PM,5:19:00 AM,Waxing Gibbous,12,,,
+13588,2014,7,15,Behchoko,Mountain,11:34:00 PM,11:37:00 AM,Waning Gibbous,16,,,
+13588,2014,7,19,Behchoko,Mountain,12:19:00 AM,3:59:00 PM,Morning Crescent,19,12:38:00 AM,20,7
+13588,2014,7,23,Behchoko,Mountain,2:14:00 AM,8:22:00 PM,Morning Crescent,23,3:05:00 AM,24,7
+13588,2014,7,27,Behchoko,Mountain,6:25:00 AM,10:07:00 PM,Evening Crescent,27,7:38:00 AM,28,7
+13588,2014,7,31,Behchoko,Mountain,11:22:00 AM,10:57:00 PM,Evening Crescent,31,12:38:00 PM,1,8
+13588,2014,8,4,Behchoko,Mountain,4:35:00 PM,12:09:00 AM,Waxing Gibbous,5,,,
+13588,2014,8,8,Behchoko,Mountain,8:31:00 PM,4:14:00 AM,Waxing Gibbous,9,,,
+13588,2014,8,12,Behchoko,Mountain,9:56:00 PM,10:39:00 AM,Waning Gibbous,13,,,
+13588,2014,8,16,Behchoko,Mountain,11:09:00 PM,4:17:00 PM,Waning Gibbous,17,,,
+13588,2014,8,20,Behchoko,Mountain,1:03:00 AM,7:00:00 PM,Morning Crescent,20,2:00:00 AM,21,8
+12122,2014,6,1,The Pas,Central,9:11:00 AM,12:36:00 AM,Evening Crescent,2,,,
+12122,2014,6,5,The Pas,Central,1:27:00 PM,2:10:00 AM,First Quarter,6,,,
+12122,2014,6,9,The Pas,Central,6:03:00 PM,3:50:00 AM,Waxing Gibbous,10,,,
+12122,2014,6,13,The Pas,Central,10:29:00 PM,7:18:00 AM,Waning Gibbous,14,,,
+12122,2014,6,17,The Pas,Central,12:29:00 AM,11:14:00 AM,Waning Gibbous,17,12:57:00 AM,18,6
+12122,2014,6,21,The Pas,Central,2:12:00 AM,4:20:00 PM,Morning Crescent,21,2:39:00 AM,22,6
+12122,2014,6,25,The Pas,Central,4:25:00 AM,8:35:00 PM,Morning Crescent,25,5:12:00 AM,26,6
+12122,2014,6,29,The Pas,Central,8:04:00 AM,11:07:00 PM,Evening Crescent,29,9:07:00 AM,30,6
+12122,2014,7,3,The Pas,Central,12:19:00 PM,12:37:00 AM,Evening Crescent,4,,,
+12122,2014,7,7,The Pas,Central,4:53:00 PM,2:22:00 AM,Waxing Gibbous,8,,,
+12122,2014,7,11,The Pas,Central,9:07:00 PM,6:07:00 AM,Waxing Gibbous,12,,,
+12122,2014,7,15,The Pas,Central,11:27:00 PM,11:34:00 AM,Waning Gibbous,16,,,
+12122,2014,7,19,The Pas,Central,12:45:00 AM,3:21:00 PM,Morning Crescent,19,1:15:00 AM,20,7
+12122,2014,7,23,The Pas,Central,3:10:00 AM,7:21:00 PM,Morning Crescent,23,4:01:00 AM,24,7
+12122,2014,7,27,The Pas,Central,6:58:00 AM,9:38:00 PM,Evening Crescent,27,8:01:00 AM,28,7
+12122,2014,7,31,The Pas,Central,11:14:00 AM,11:05:00 PM,Evening Crescent,31,12:20:00 PM,1,8
+12122,2014,8,4,The Pas,Central,3:44:00 PM,12:57:00 AM,Waxing Gibbous,5,,,
+12122,2014,8,8,The Pas,Central,7:41:00 PM,4:57:00 AM,Waxing Gibbous,9,,,
+12122,2014,8,12,The Pas,Central,9:54:00 PM,10:29:00 AM,Waning Gibbous,13,,,
+12122,2014,8,16,The Pas,Central,11:50:00 PM,3:24:00 PM,Waning Gibbous,17,,,
+12122,2014,8,20,The Pas,Central,1:58:00 AM,6:03:00 PM,Morning Crescent,20,2:52:00 AM,21,8
+9990,2014,6,1,PANPa,Central,8:33:00 AM,11:57:00 PM,Evening Crescent,2,,,
+9990,2014,6,5,PANPa,Central,12:48:00 PM,1:31:00 AM,First Quarter,6,,,
+9990,2014,6,9,PANPa,Central,5:26:00 PM,3:10:00 AM,Waxing Gibbous,10,,,
+9990,2014,6,13,PANPa,Central,9:52:00 PM,6:38:00 AM,Waning Gibbous,14,,,
+9990,2014,6,17,PANPa,Central,,10:35:00 AM,Waning Gibbous,17,12:18:00 AM,18,6
+9990,2014,6,21,PANPa,Central,1:33:00 AM,3:42:00 PM,Morning Crescent,21,1:59:00 AM,22,6
+9990,2014,6,25,PANPa,Central,3:45:00 AM,7:58:00 PM,Morning Crescent,25,4:32:00 AM,23,6
+9990,2014,6,29,PANPa,Central,7:24:00 AM,10:29:00 PM,Evening Crescent,29,8:27:00 AM,30,6
+9990,2014,7,3,PANPa,Central,11:40:00 AM,11:57:00 PM,Evening Crescent,3,12:47:00 PM,4,7
+9990,2014,7,7,PANPa,Central,4:15:00 PM,1:41:00 AM,Waxing Gibbous,8,,,
+9990,2014,7,11,PANPa,Central,8:29:00 PM,5:28:00 AM,Waxing Gibbous,12,,,
+9990,2014,7,15,PANPa,Central,10:47:00 PM,10:55:00 AM,Waning Gibbous,16,,,
+9990,2014,7,19,PANPa,Central,12:05:00 AM,2:43:00 PM,Morning Crescent,19,12:34:00 AM,20,7
+9990,2014,7,23,PANPa,Central,2:30:00 AM,6:43:00 PM,Morning Crescent,23,3:20:00 AM,24,7
+9990,2014,7,27,PANPa,Central,6:18:00 AM,8:59:00 PM,Evening Crescent,27,7:21:00 AM,28,7
+9990,2014,7,31,PANPa,Central,10:35:00 AM,10:25:00 PM,Evening Crescent,31,11:41:00 AM,1,8
+9990,2014,8,4,PANPa,Central,3:06:00 PM,12:17:00 AM,Waxing Gibbous,5,,,
+9990,2014,8,8,PANPa,Central,7:03:00 PM,4:17:00 AM,Waxing Gibbous,9,,,
+9990,2014,8,12,PANPa,Central,9:15:00 PM,9:51:00 AM,Waning Gibbous,13,,,
+9990,2014,8,16,PANPa,Central,11:10:00 PM,2:46:00 PM,Waning Gibbous,17,,,
+9990,2014,8,20,PANPa,Central,1:18:00 AM,5:25:00 PM,Morning Crescent,20,2:12:00 AM,21,8
+7698,2014,6,1,Tibbitt Lake,Mountain,8:20:00 AM,1:05:00 AM,Evening Crescent,2,,,
+7698,2014,6,5,Tibbitt Lake,Mountain,1:12:00 PM,2:02:00 AM,First Quarter,6,,,
+7698,2014,6,9,Tibbitt Lake,Mountain,6:31:00 PM,3:03:00 AM,Waxing Gibbous,10,,,
+7698,2014,6,13,Tibbitt Lake,Mountain,11:16:00 PM,6:16:00 AM,Waning Gibbous,14,,,
+7698,2014,6,17,Tibbitt Lake,Mountain,12:43:00 AM,10:46:00 AM,Waning Gibbous,17,1:00:00 AM,18,6
+7698,2014,6,21,Tibbitt Lake,Mountain,1:43:00 AM,4:39:00 PM,Morning Crescent,21,2:00:00 AM,22,6
+7698,2014,6,25,Tibbitt Lake,Mountain,3:21:00 AM,9:24:00 PM,Morning Crescent,25,4:06:00 AM,26,6
+7698,2014,6,29,Tibbitt Lake,Mountain,7:15:00 AM,11:31:00 PM,Evening Crescent,29,8:27:00 AM,30,6
+7698,2014,7,3,Tibbitt Lake,Mountain,12:10:00 PM,12:24:00 AM,Evening Crescent,4,,,
+7698,2014,7,7,Tibbitt Lake,Mountain,5:26:00 PM,1:29:00 AM,Waxing Gibbous,8,,,
+7698,2014,7,11,Tibbitt Lake,Mountain,9:50:00 PM,5:10:00 AM,Waxing Gibbous,12,,,
+7698,2014,7,15,Tibbitt Lake,Mountain,11:23:00 PM,11:25:00 AM,Waning Gibbous,16,,,
+7698,2014,7,19,Tibbitt Lake,Mountain,12:10:00 AM,3:46:00 PM,Morning Crescent,19,12:29:00 AM,20,7
+7698,2014,7,23,Tibbitt Lake,Mountain,2:05:00 AM,8:08:00 PM,Morning Crescent,23,2:56:00 AM,24,7
+7698,2014,7,27,Tibbitt Lake,Mountain,6:15:00 AM,9:56:00 PM,Evening Crescent,27,7:28:00 AM,28,7
+7698,2014,7,31,Tibbitt Lake,Mountain,11:10:00 AM,10:47:00 PM,Evening Cresnent,31,12:26:00 PM,1,8
+7698,2014,8,4,Tibbitt Lake,Mountain,4:22:00 PM,12:00:00 AM,Waxing Gibbous,5,,,
+7698,2014,8,8,Tibbitt Lake,Mountain,8:19:00 PM,4:05:00 AM,Waxing Gibbous,9,,,
+7698,2014,8,12,Tibbitt Lake,Mountain,9:45:00 PM,10:27:00 AM,Waning Gibbous,13,,,
+7698,2014,8,16,Tibbitt Lake,Mountain,10:59:00 PM,4:04:00 PM,Waning Gibbous,17,,,
+7698,2014,8,20,Tibbitt Lake,Mountain,12:54:00 AM,6:47:00 PM,Morning Crescent,20,1:51:00 AM,21,8
+13585,2014,6,1,Behchoko,Mountain,8:30:00 AM,1:17:00 AM,Evening Crescent,2,,,
+13585,2014,6,5,Behchoko,Mountain,1:23:00 PM,2:13:00 AM,First Quarter,6,,,
+13585,2014,6,9,Behchoko,Mountain,6:44:00 PM,3:12:00 AM,Waxing Gibbous,10,,,
+13585,2014,6,13,Behchoko,Mountain,11:29:00 PM,6:26:00 AM,Waning Gibbous,14,,,
+13585,2014,6,17,Behchoko,Mountain,12:55:00 AM,10:57:00 AM,Waning Gibbous,17,1:11:00 AM,18,6
+13585,2014,6,21,Behchoko,Mountain,1:54:00 AM,4:51:00 PM,Morning Crescent,21,2:10:00 AM,22,6
+13585,2014,6,25,Behchoko,Mountain,3:31:00 AM,9:37:00 PM,Morning Crescent,25,4:16:00 AM,26,6
+13585,2014,6,29,Behchoko,Mountain,7:26:00 AM,11:43:00 PM,Evening Crescent,29,8:38:00 AM,30,6
+13585,2014,7,3,Behchoko,Mountain,12:21:00 PM,12:35:00 AM,Evening Crescent,4,,,
+13585,2014,7,7,Behchoko,Mountain,5:39:00 PM,1:39:00 AM,Waxing Gibbous,8,,,
+13585,2014,7,11,Behchoko,Mountain,10:02:00 PM,5:20:00 AM,Waxing Gibbous,12,,,
+13585,2014,7,15,Behchoko,Mountain,11:35:00 PM,11:37:00 AM,Waning Gibbous,16,,,
+13585,2014,7,19,Behchoko,Mountain,12:20:00 AM,3:59:00 PM,Morning Crescent,19,12:39:00 AM,20,7
+13585,2014,7,23,Behchoko,Mountain,2:14:00 AM,8:21:00 PM,Morning Crescent,23,3:06:00 AM,24,7
+13585,2014,7,27,Behchoko,Mountain,6:26:00 AM,10:08:00 PM,Evening Crescent,27,7:39:00 AM,28,7
+13585,2014,7,31,Behchoko,Mountain,11:22:00 AM,10:57:00 PM,Evening Crescent,31,12:38:00 PM,1,8
+13585,2014,8,4,Behchoko,Mountain,4:35:00 PM,12:10:00 AM,Waxing Gibbous,5,,,
+13585,2014,8,8,Behchoko,Mountain,8:31:00 PM,4:15:00 AM,Waxing Gibbous,9,,,
+13585,2014,8,12,Behchoko,Mountain,9:56:00 PM,10:39:00 AM,Waning Gibbous,13,,,
+13585,2014,8,16,Behchoko,Mountain,11:09:00 PM,4:17:00 PM,Waning Gibbous,17,,,
+13585,2014,8,20,Behchoko,Mountain,1:03:00 AM,7:00:00 PM,Morning Crescent,20,2:01:00 AM,21,8
+8246,2014,6,1,Carp,Eastern,8:54:00 AM,11:32:00 PM,Evening Crescent,1,9:51:00 AM,2,6
+8246,2014,6,5,Carp,Eastern,12:47:00 PM,1:27:00 AM,First Quarter,6,,,
+8246,2014,6,9,Carp,Eastern,5:00:00 PM,3:29:00 AM,Waxing Gibbous,10,,,
+8246,2014,6,13,Carp,Eastern,9:17:00 PM,7:02:00 AM,Full,14,,,
+8246,2014,6,17,Carp,Eastern,,11:53:00 AM,Waning Gibbous,18,12:07:00 AM,18,6
+8246,2014,6,21,Carp,Eastern,1:41:00 AM,3:20:00 PM,Morning Crescent,21,2:14:00 AM,22,6
+8246,2014,6,25,Carp,Eastern,4:11:00 AM,7:22:00 PM,Morning Crescent,25,4:59:00 AM,26,6
+8246,2014,6,29,Carp,Eastern,7:42:00 AM,10:06:00 PM,Evening Crescent,29,8:40:00 AM,30,6
+8246,2014,7,3,Carp,Eastern,11:36:00 AM,11:57:00 PM,Evening Crescent,3,,,
+8246,2014,7,7,Carp,Eastern,3:47:00 PM,2:02:00 AM,Waxing Gibbous,8,,,
+8246,2014,7,11,Carp,Eastern,7:56:00 PM,5:49:00 AM,Waxing Gibbous,12,,,
+8246,2014,7,15,Carp,Eastern,10:41:00 PM,10:49:00 AM,Waning Gibbous,16,,,
+8246,2014,7,19,Carp,Eastern,12:18:00 AM,2:18:00 PM,Morning Crescent,19,12:52:00 AM,20,7
+8246,2014,7,23,Carp,Eastern,2:56:00 AM,6:08:00 PM,Morning Crescent,23,3:46:00 AM,24,7
+8246,2014,7,27,Carp,Eastern,6:33:00 AM,8:40:00 PM,Evening Crescent,27,7:31:00 AM,28,7
+8246,2014,7,31,Carp,Eastern,10:27:00 AM,10:28:00 PM,Evening Crescent,31,11:28:00 AM,1,8
+8246,2014,8,4,Carp,Eastern,2:36:00 PM,12:39:00 AM,Waxing Gibbous,5,,,
+8246,2014,8,8,Carp,Eastern,6:32:00 PM,4:36:00 AM,Waxing Gibbous,9,,,
+8246,2014,8,12,Carp,Eastern,9:11:00 PM,9:41:00 AM,Waning Gibbous,13,,,
+8246,2014,8,16,Carp,Eastern,11:30:00 PM,2:14:00 PM,Waning Gibbous,17,,,
+8246,2014,8,20,Carp,Eastern,1:44:00 AM,4:52:00 PM,Morning Crescent,20,2:36:00 AM,21,8
+7720,2014,6,1,Timmins,Eastern,9:09:00 AM,12:02:00 AM,Evening Crescent,2,,,
+7720,2014,6,5,Timmins,Eastern,1:09:00 PM,1:50:00 AM,First Quarter,6,,,
+7720,2014,6,9,Timmins,Eastern,5:29:00 PM,3:45:00 AM,Waxing Gibbous,10,,,
+7720,2014,6,13,Timmins,Eastern,9:49:00 PM,7:16:00 AM,Full,14,,,
+7720,2014,6,17,Timmins,Eastern,,11:00:00 AM,Waning Gibbous,17,12:32:00 AM,18,6
+7720,2014,6,21,Timmins,Eastern,2:01:00 AM,3:48:00 PM,Morning Crescent,21,2:31:00 AM,22,6
+7720,2014,6,25,Timmins,Eastern,4:25:00 AM,7:55:00 PM,Morning Crescent,25,5:12:00 AM,26,6
+7720,2014,6,29,Timmins,Eastern,7:58:00 AM,10:35:00 PM,Evening Crescent,29,8:57:00 AM,30,6
+7720,2014,7,3,Timmins,Eastern,11:59:00 AM,12:19:00 AM,Evening Crescent,4,,,
+7720,2014,7,7,Timmins,Eastern,4:17:00 PM,2:18:00 AM,Waxing Gibbous,8,,,
+7720,2014,7,11,Timmins,Eastern,8:28:00 PM,6:04:00 AM,Waxing Gibbous,12,,,
+7720,2014,7,15,Timmins,Eastern,11:05:00 PM,11:13:00 AM,Waning Gibbous,16,,,
+7720,2014,7,19,Timmins,Eastern,12:36:00 AM,2:47:00 PM,Morning Crescent,19,1:08:00 AM,20,7
+7720,2014,7,23,Timmins,Eastern,3:10:00 AM,6:41:00 PM,Morning Crescent,23,4:00:00 AM,24,7
+7720,2014,7,27,Timmins,Eastern,6:50:00 AM,9:08:00 PM,Evening Crescent,27,7:49:00 AM,28,7
+7720,2014,7,31,Timmins,Eastern,10:51:00 AM,10:49:00 PM,Evening Crescent,31,11:53:00 AM,1,8
+7720,2014,8,4,Timmins,Eastern,3:07:00 PM,12:54:00 AM,Waxing Gibbous,5,,,
+7720,2014,8,8,Timmins,Eastern,7:03:00 PM,4:52:00 AM,Waxing Gibbous,9,,,
+7720,2014,8,12,Timmins,Eastern,9:34:00 PM,10:06:00 AM,Waning Gibbous,13,,,
+7720,2014,8,16,Timmins,Eastern,11:46:00 PM,2:46:00 PM,Waning Gibbous,17,,,
+7720,2014,8,20,Timmins,Eastern,1:57:00 AM,5:24:00 PM,Morning Crescent,20,2:50:00 AM,21,8
+7734,2014,6,1,Gordon Creek,Eastern,9:28:00 AM,12:34:00 AM,Evening Crescent,2,,,
+7734,2014,6,5,Gordon Creek,Eastern,1:34:00 PM,2:16:00 AM,First Quarter,6,,,
+7734,2014,6,9,Gordon Creek,Eastern,6:01:00 PM,4:04:00 AM,Waxing Gibbous,10,,,
+7734,2014,6,13,Gordon Creek,Eastern,10:23:00 PM,7:34:00 AM,Full,14,,,
+7734,2014,6,17,Gordon Creek,Eastern,12:30:00 AM,11:23:00 AM,Waning Gibbous,17,1:00:00 AM,18,6
+7734,2014,6,21,Gordon Creek,Eastern,2:23:00 AM,4:19:00 PM,Morning Crescent,21,2:52:00 AM,22,6
+7734,2014,6,25,Gordon Creek,Eastern,4:42:00 AM,8:29:00 PM,Morning Crescent,25,5:29:00 AM,26,6
+7734,2014,6,29,Gordon Creek,Eastern,8:18:00 AM,11:06:00 PM,Evening Crescent,29,9:18:00 AM,30,6
+7734,2014,7,3,Gordon Creek,Eastern,12:25:00 PM,12:44:00 AM,Evening Crescent,4,,,
+7734,2014,7,7,Gordon Creek,Eastern,4:49:00 PM,2:37:00 AM,Waxing Gibbous,8,,,
+7734,2014,7,11,Gordon Creek,Eastern,9:02:00 PM,6:22:00 AM,Waxing Gibbous,12,,,
+7734,2014,7,15,Gordon Creek,Eastern,11:32:00 PM,11:39:00 AM,Waning Gibbous,16,,,
+7734,2014,7,19,Gordon Creek,Eastern,12:57:00 AM,3:19:00 PM,Morning Crescent,19,1:28:00 AM,20,7
+7734,2014,7,23,Gordon Creek,Eastern,3:27:00 AM,7:15:00 PM,Morning Crescent,23,4:17:00 AM,24,7
+7734,2014,7,27,Gordon Creek,Eastern,7:10:00 AM,9:38:00 PM,Evening Crescent,27,8:11:00 AM,28,7
+7734,2014,7,31,Gordon Creek,Eastern,11:18:00 AM,11:14:00 PM,Evening Crescent,31,12:22:00 PM,1,8
+7734,2014,8,4,Gordon Creek,Eastern,3:40:00 PM,1:13:00 AM,Waxing Gibbous,5,,,
+7734,2014,8,8,Gordon Creek,Eastern,7:36:00 PM,5:11:00 AM,Waxing Gibbous,9,,,
+7734,2014,8,12,Gordon Creek,Eastern,10:00:00 PM,10:33:00 AM,Waning Gibbous,13,,,
+7734,2014,8,16,Gordon Creek,Eastern,,3:19:00 PM,Waning Gibbous,17,12:05:00 AM,17,8
+7734,2014,8,20,Gordon Creek,Eastern,2:15:00 AM,5:57:00 PM,Morning Crescent,20,3:08:00 AM,21,8
+7734,2014,8,24,Gordon Creek,Eastern,6:04:00 AM,8:08:00 PM,Morning Crescent,24,7:06:00 AM,25,8
+7734,2014,8,28,Gordon Creek,Eastern,10:14:00 AM,9:44:00 PM,Evening Crescent,28,11:18:00 AM,29,8
+7755,2014,6,17,Gordon Creek,Eastern,12:29:00 AM,11:22:00 AM,Waning Gibbous,17,1:00:00 AM,18,6
+7755,2014,6,19,Gordon Creek,Eastern,1:28:00 AM,1:54:00 PM,Last Quarter,19,1:55:00 AM,20,6
+7755,2014,6,21,Gordon Creek,Eastern,2:23:00 AM,4:18:00 PM,Morning Crescent,21,2:52:00 AM,22,6
+7755,2014,6,23,Gordon Creek,Eastern,3:24:00 AM,6:33:00 PM,Morning Crescent,23,4:00:00 AM,24,6
+7755,2014,6,25,Gordon Creek,Eastern,4:42:00 AM,8:29:00 PM,Morning Crescent,25,5:29:00 AM,26,6
+7755,2014,6,27,Gordon Creek,Eastern,6:21:00 AM,9:59:00 PM,New,27,7:18:00 AM,28,6
+7755,2014,6,29,Gordon Creek,Eastern,8:17:00 AM,11:06:00 PM,Evening Crescent,29,9:18:00 AM,30,6
+7755,2014,7,1,Gordon Creek,Eastern,10:19:00 AM,11:58:00 PM,Evening Crescent,1,11:21:00 AM,2,7
+7755,2014,7,3,Gordon Creek,Eastern,12:24:00 PM,12:44:00 AM,Evening Crescent,4,,,
+7755,2014,7,5,Gordon Creek,Eastern,2:33:00 PM,1:33:00 AM,First Quarter,6,,,
+7755,2014,7,7,Gordon Creek,Eastern,4:49:00 PM,2:36:00 AM,Waxing Gibbous,8,,,
+7755,2014,7,9,Gordon Creek,Eastern,7:05:00 PM,4:09:00 AM,Waxing Gibbous,10,,,
+7755,2014,7,11,Gordon Creek,Eastern,9:01:00 PM,6:22:00 AM,Waxing Gibbous,12,,,
+7755,2014,7,13,Gordon Creek,Eastern,10:27:00 PM,9:00:00 AM,Waning Gibbous,14,,,
+7755,2014,7,15,Gordon Creek,Eastern,11:31:00 PM,11:38:00 AM,Waning Gibbous,16,,,
+7755,2014,7,17,Gordon Creek,Eastern,,12:55:00 PM,Waning Gibbous,17,12:28:00 AM,18,7
+7755,2014,7,19,Gordon Creek,Eastern,12:57:00 AM,3:18:00 PM,Morning Crescent,19,1:28:00 AM,20,7
+7755,2014,7,21,Gordon Creek,Eastern,2:03:00 AM,5:28:00 PM,Morning Crescent,21,2:42:00 AM,22,7
+7755,2014,7,23,Gordon Creek,Eastern,3:27:00 AM,7:15:00 PM,Morning Crescent,23,4:17:00 AM,24,7
+7755,2014,7,25,Gordon Creek,Eastern,5:12:00 AM,8:36:00 PM,Morning Crescent,25,6:10:00 AM,26,7
+7755,2014,7,27,Gordon Creek,Eastern,7:10:00 AM,9:38:00 PM,Evening Crescent,27,8:11:00 AM,28,7
+7755,2014,7,29,Gordon Creek,Eastern,9:13:00 AM,10:27:00 PM,Evening Crescent,29,10:15:00 AM,29,7
+7620,2014,6,1,Musselwhite,Central,8:32:00 AM,11:50:00 PM,Evening Crescent,1,9:33:00 AM,2,6
+7620,2014,6,5,Musselwhite,Central,12:43:00 PM,1:27:00 AM,First Quarter,6,,,
+7620,2014,6,9,Musselwhite,Central,5:17:00 PM,3:09:00 AM,Waxing Gibbous,10,,,
+7620,2014,6,13,Musselwhite,Central,9:42:00 PM,6:37:00 AM,Waning Gibbous,14,,,
+7620,2014,6,17,Musselwhite,Central,,10:31:00 AM,Waning Gibbous,17,12:13:00 AM,18,6
+7620,2014,6,21,Musselwhite,Central,1:31:00 AM,3:33:00 PM,Morning Crescent,21,1:58:00 AM,22,6
+7620,2014,6,25,Musselwhite,Central,3:45:00 AM,7:48:00 PM,Morning Crescent,25,4:32:00 AM,26,6
+7620,2014,6,29,Musselwhite,Central,7:22:00 AM,10:22:00 PM,Evening Crescent,29,8:24:00 AM,30,6
+7620,2014,7,3,Musselwhite,Central,11:35:00 AM,11:54:00 PM,Evening Crescent,3,12:40:00 PM,4,7
+7620,2014,7,7,Musselwhite,Central,4:06:00 PM,1:41:00 AM,Waxing Gibbous,8,,,
+7620,2014,7,11,Musselwhite,Central,8:20:00 PM,5:26:00 AM,Waxing Gibbous,12,,,
+7620,2014,7,15,Musselwhite,Central,10:43:00 PM,10:49:00 AM,Waning Gibbous,16,,,
+7620,2014,7,19,Musselwhite,Central,12:04:00 AM,2:34:00 PM,Morning Crescent,19,12:34:00 AM,20,8
+7620,2014,7,23,Musselwhite,Central,2:30:00 AM,6:34:00 PM,Morning Crescent,23,3:20:00 AM,24,8
+7620,2014,7,27,Musselwhite,Central,6:16:00 AM,8:53:00 PM,Evening Crescent,27,7:18:00 AM,28,8
+7620,2014,7,31,Musselwhite,Central,10:29:00 AM,10:23:00 PM,Evening Crescent,31,11:35:00 AM,1,8
+7620,2014,8,4,Musselwhite,Central,2:57:00 PM,12:16:00 AM,Waxing Gibbous,5,,,
+7620,2014,8,8,Musselwhite,Central,6:54:00 PM,4:15:00 AM,Waxing Gibbous,9,,,
+7620,2014,8,12,Musselwhite,Central,9:11:00 PM,9:44:00 AM,Waning Gibbous,13,,,
+7620,2014,8,16,Musselwhite,Central,11:10:00 PM,2:37:00 PM,Waning Gibbous,17,,,
+7620,2014,8,20,Musselwhite,Central,1:18:00 AM,5:16:00 PM,Morning Crescent,20,2:11:00 AM,21,8
+13482,2014,6,1,Washagami Lake,Eastern,9:09:00 AM,11:54:00 PM,Evening Crescent,1,10:07:00 AM,2,6
+13482,2014,6,5,Washagami Lake,Eastern,1:05:00 PM,1:46:00 AM,First Quarter,6,,,
+13482,2014,6,9,Washagami Lake,Eastern,5:21:00 PM,3:44:00 AM,Waxing Gibbous,10,,,
+13482,2014,6,13,Washagami Lake,Eastern,9:39:00 PM,7:16:00 AM,Full,14,,,
+13482,2014,6,17,Washagami Lake,Eastern,,10:57:00 AM,Waning Gibbous,17,12:27:00 AM,18,6
+13482,2014,6,21,Washagami Lake,Eastern,1:58:00 AM,3:41:00 PM,Morning Crescent,21,2:30:00 AM,22,6
+13482,2014,6,25,Washagami Lake,Eastern,4:25:00 AM,7:45:00 PM,Morning Crescent,25,5:13:00 AM,26,6
+13482,2014,6,29,Washagami Lake,Eastern,7:57:00 AM,10:27:00 PM,Evening Crescent,29,8:56:00 AM,30,6
+13482,2014,7,3,Washagami Lake,Eastern,11:55:00 AM,,Evening Crescent,4,,,
+13482,2014,7,7,Washagami Lake,Eastern,4:09:00 PM,2:17:00 AM,Waxing Gibbous,8,,,
+13482,2014,7,11,Washagami Lake,Eastern,8:18:00 PM,6:04:00 AM,Waxing Gibbous,12,,,
+13482,2014,7,15,Washagami Lake,Eastern,10:59:00 PM,11:08:00 AM,Waning Gibbous,16,,,
+13482,2014,7,19,Washagami Lake,Eastern,12:34:00 AM,2:39:00 PM,Morning Crescent,19,1:07:00 AM,20,7
+13482,2014,7,23,Washagami Lake,Eastern,3:11:00 AM,6:31:00 PM,Morning Crescent,23,4:00:00 AM,24,7
+13482,2014,7,27,Washagami Lake,Eastern,6:48:00 AM,9:00:00 PM,Evening Crescent,27,7:47:00 AM,28,7
+13482,2014,7,31,Washagami Lake,Eastern,10:46:00 AM,10:46:00 PM,Evening Crescent,31,11:47:00 AM,1,8
+13482,2014,8,4,Washagami Lake,Eastern,2:58:00 PM,12:54:00 AM,Waxing Gibbous,5,,,
+13482,2014,8,8,Washagami Lake,Eastern,6:54:00 PM,4:51:00 AM,Waxing Gibbous,9,,,
+13482,2014,8,12,Washagami Lake,Eastern,9:30:00 PM,10:00:00 AM,Waning Gibbous,13,,,
+13482,2014,8,16,Washagami Lake,Eastern,11:45:00 PM,2:37:00 PM,Waning Gibbous,17,,,
+13482,2014,8,20,Washagami Lake,Eastern,1:58:00 AM,7:14:00 AM,Morning Crescent,20,2:50:00 AM,21,8
+13577,2014,6,1,The Pas,Central,9:10:00 AM,12:38:00 AM,Evening Crescent,2,,,
+13577,2014,6,5,The Pas,Central,1:26:00 PM,2:10:00 AM,First Quarter,6,,,
+13577,2014,6,9,The Pas,Central,6:05:00 PM,3:48:00 AM,Waxing Gibbous,10,,,
+13577,2014,6,13,The Pas,Central,10:32:00 PM,7:15:00 AM,Waning Gibbous,14,,,
+13577,2014,6,17,The Pas,Central,12:30:00 AM,11:12:00 AM,Waning Gibbous,17,12:57:00 AM,18,6
+13577,2014,6,21,The Pas,Central,2:11:00 AM,4:21:00 PM,Morning Crescent,21,2:37:00 AM,22,6
+13577,2014,6,25,The Pas,Central,4:22:00 AM,8:38:00 PM,Morning Crescent,25,5:09:00 AM,26,6
+13577,2014,6,29,The Pas,Central,8:01:00 AM,11:09:00 PM,Evening Crescent,29,9:04:00 AM,30,6
+13577,2014,7,3,The Pas,Central,12:19:00 PM,12:36:00 AM,Evening Crescent,4,,,
+13577,2014,7,7,The Pas,Central,4:55:00 PM,2:19:00 AM,Waxing Gibbous,8,,,
+13577,2014,7,11,The Pas,Central,9:09:00 PM,4:51:00 AM,Waxing Gibbous,12,,,
+13577,2014,7,15,The Pas,Central,11:27:00 PM,11:33:00 AM,Waning Gibbous,16,,,
+13577,2014,7,19,The Pas,Central,12:43:00 AM,3:22:00 PM,Morning Crescent,19,1:12:00 AM,20,7
+13577,2014,7,23,The Pas,Central,3:07:00 AM,7:23:00 PM,Morning Crescent,23,3:57:00 AM,24,7
+13577,2014,7,27,The Pas,Central,6:55:00 AM,9:39:00 PM,Evening Crescent,27,7:59:00 AM,28,7
+13577,2014,7,31,The Pas,Central,11:14:00 AM,11:04:00 PM,Evening Crescent,31,12:20:00 PM,1,8
+13577,2014,8,4,The Pas,Central,3:46:00 PM,12:19:00 AM,Waxing Gibbous,5,,,
+13577,2014,8,8,The Pas,Central,7:43:00 PM,4:54:00 AM,Waxing Gibbous,9,,,
+13577,2014,8,12,The Pas,Central,9:54:00 PM,10:29:00 AM,Waning Gibbous,13,,,
+13577,2014,8,16,The Pas,Central,11:48:00 PM,3:26:00 PM,Waning Gibbous,17,,,
+13577,2014,8,20,The Pas,Central,1:55:00 AM,6:05:00 PM,Morning Crescent,20,2:49:00 AM,21,8
+7699,2014,6,1,Musselwhite,Central,8:32:00 AM,11:50:00 PM,Evening Crescent,1,9:33:00 AM,2,6
+7699,2014,6,5,Musselwhite,Central,12:44:00 PM,1:27:00 AM,First Quarter,6,,,
+7699,2014,6,9,Musselwhite,Central,5:17:00 PM,3:09:00 AM,Waxing Gibbous,10,,,
+7699,2014,6,13,Musselwhite,Central,9:42:00 PM,6:37:00 AM,Waning Gibbous,14,,,
+7699,2014,6,17,Musselwhite,Central,,10:31:00 AM,Waning Gibbous,17,12:13:00 AM,18,6
+7699,2014,6,21,Musselwhite,Central,1:31:00 AM,3:34:00 PM,Morning Crescent,21,1:58:00 AM,22,6
+7699,2014,6,25,Musselwhite,Central,3:45:00 AM,7:48:00 PM,Morning Crescent,25,4:32:00 AM,26,6
+7699,2014,6,29,Musselwhite,Central,7:22:00 AM,10:22:00 PM,Evening Crescent,29,8:24:00 AM,30,6
+7699,2014,7,3,Musselwhite,Central,11:35:00 AM,11:54:00 PM,Evening Crescent,3,12:40:00 PM,4,7
+7699,2014,7,7,Musselwhite,Central,4:06:00 PM,1:41:00 AM,Waxing Gibbous,8,,,
+7699,2014,7,11,Musselwhite,Central,8:20:00 PM,5:26:00 AM,Waxing Gibbous,12,,,
+7699,2014,7,15,Musselwhite,Central,10:43:00 PM,10:49:00 AM,Waning Gibbous,16,,,
+7699,2014,7,19,Musselwhite,Central,12:04:00 AM,2:34:00 PM,Morning Crescent,19,12:34:00 AM,20,8
+7699,2014,7,23,Musselwhite,Central,2:30:00 AM,6:34:00 PM,Morning Crescent,23,3:20:00 AM,24,8
+7699,2014,7,27,Musselwhite,Central,6:16:00 AM,8:53:00 PM,Evening Crescent,27,7:18:00 AM,28,8
+7699,2014,7,31,Musselwhite,Central,10:29:00 AM,10:23:00 PM,Evening Crescent,31,11:35:00 AM,1,8
+7699,2014,8,4,Musselwhite,Central,2:57:00 PM,12:16:00 AM,Waxing Gibbous,5,,,
+7699,2014,8,8,Musselwhite,Central,6:54:00 PM,4:15:00 AM,Waxing Gibbous,9,,,
+7699,2014,8,12,Musselwhite,Central,9:11:00 PM,9:44:00 AM,Waning Gibbous,13,,,
+7699,2014,8,16,Musselwhite,Central,11:10:00 PM,2:37:00 PM,Waning Gibbous,17,,,
+7699,2014,8,20,Musselwhite,Central,1:18:00 AM,5:16:00 PM,Morning Crescent,20,2:11:00 AM,21,8

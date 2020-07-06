@@ -1,0 +1,51 @@
+model,formula,nPars,n,samplenum,duration,duration.min,Predictor,EffectSize,LCL,UCL
+TSSS.JulianXlat.linear,~tsss.s + latitude + tsssXlat.s + ordinal.s + julianXlat.s ~ 1,7,23,20,600,10,Intercept,-2.287717366,-2.902656694,-1.672778037
+TSSS.JulianXlat.linear,~tsss.s + ordinal.s + latitude + julianXlat.s ~ 1,6,23,20,900,15,Intercept,-1.616444433,-2.082712148,-1.150176719
+TSSS.JulianXlat.linear,~tsss.s + tsss.s2 + latitude + tsssXlat.s + tsss2Xlat.s + ordinal.s + julianXlat.s ~ 1,9,23,20,3600,60,Intercept,-0.856067214,-1.144831685,-0.567302743
+Temperature,~ordinal.s + latitude + julianXlat.s + temp.s ~ 1,6,23,20,180,3,Intercept,-2.65034243,-3.623839985,-1.676844875
+TSSS.quadratic,~tsss.s + tsss.s2 ~ 1,4,23,20,360,6,Intercept,-2.256679861,-2.858501312,-1.65485841
+TSSS.JulianXlat.linear,~tsss.s + latitude + tsssXlat.s + ordinal.s + julianXlat.s ~ 1,7,23,20,600,10,Ordinal Day,-6.086810872,-11.54885647,-0.62476527
+TSSS.JulianXlat.linear,~tsss.s + ordinal.s + latitude + julianXlat.s ~ 1,6,23,20,900,15,Ordinal Day,-7.353165037,-12.66439493,-2.041935143
+TSSS.JulianXlat.linear,~tsss.s + tsss.s2 + latitude + tsssXlat.s + tsss2Xlat.s + ordinal.s + julianXlat.s ~ 1,9,23,20,3600,60,Ordinal Day,-3.337357718,-6.484623176,-0.190092259
+Temperature,~ordinal.s + latitude + julianXlat.s + temp.s ~ 1,6,23,20,180,3,Ordinal Day,-9.689867697,-18.965525,-0.414210399
+TSSS.quadratic,~tsss.s + tsss.s2 ~ 1,4,23,20,360,6,Ordinal Day,0,0,0
+TSSS.JulianXlat.linear,~tsss.s + latitude + tsssXlat.s + ordinal.s + julianXlat.s ~ 1,7,23,20,600,10,Latitude,-5.355513589,-11.07191203,0.360884852
+TSSS.JulianXlat.linear,~tsss.s + ordinal.s + latitude + julianXlat.s ~ 1,6,23,20,900,15,Latitude,-7.883209937,-13.71639178,-2.050028094
+TSSS.JulianXlat.linear,~tsss.s + tsss.s2 + latitude + tsssXlat.s + tsss2Xlat.s + ordinal.s + julianXlat.s ~ 1,9,23,20,3600,60,Latitude,-3.138651137,-6.512343119,0.235040845
+Temperature,~ordinal.s + latitude + julianXlat.s + temp.s ~ 1,6,23,20,180,3,Latitude,-8.990117941,-18.50546646,0.525230576
+TSSS.quadratic,~tsss.s + tsss.s2 ~ 1,4,23,20,360,6,Latitude,0,0,0
+TSSS.JulianXlat.linear,~tsss.s + latitude + tsssXlat.s + ordinal.s + julianXlat.s ~ 1,7,23,20,600,10,Ordinal Day*Latitude,7.408336794,0.658642992,14.1580306
+TSSS.JulianXlat.linear,~tsss.s + ordinal.s + latitude + julianXlat.s ~ 1,6,23,20,900,15,Ordinal Day*Latitude,9.572406641,2.790982528,16.35383075
+TSSS.JulianXlat.linear,~tsss.s + tsss.s2 + latitude + tsssXlat.s + tsss2Xlat.s + ordinal.s + julianXlat.s ~ 1,9,23,20,3600,60,Ordinal Day*Latitude,4.149922382,0.119416986,8.180427779
+Temperature,~ordinal.s + latitude + julianXlat.s + temp.s ~ 1,6,23,20,180,3,Ordinal Day*Latitude,11.61239534,0.438858293,22.78593239
+TSSS.quadratic,~tsss.s + tsss.s2 ~ 1,4,23,20,360,6,Ordinal Day*Latitude,0,0,0
+TSSS.JulianXlat.linear,~tsss.s + latitude + tsssXlat.s + ordinal.s + julianXlat.s ~ 1,7,23,20,600,10,Temperature,0,0,0
+TSSS.JulianXlat.linear,~tsss.s + ordinal.s + latitude + julianXlat.s ~ 1,6,23,20,900,15,Temperature,0,0,0
+TSSS.JulianXlat.linear,~tsss.s + tsss.s2 + latitude + tsssXlat.s + tsss2Xlat.s + ordinal.s + julianXlat.s ~ 1,9,23,20,3600,60,Temperature,0,0,0
+Temperature,~ordinal.s + latitude + julianXlat.s + temp.s ~ 1,6,23,20,180,3,Temperature,0.677482916,0.01882863,1.336137202
+TSSS.quadratic,~tsss.s + tsss.s2 ~ 1,4,23,20,360,6,Temperature,0,0,0
+TSSS.JulianXlat.linear,~tsss.s + latitude + tsssXlat.s + ordinal.s + julianXlat.s ~ 1,7,23,20,600,10,TSSS,2.810965504,-2.426018837,8.047949845
+TSSS.JulianXlat.linear,~tsss.s + ordinal.s + latitude + julianXlat.s ~ 1,6,23,20,900,15,TSSS,-0.670454379,-1.099959018,-0.240949739
+TSSS.JulianXlat.linear,~tsss.s + tsss.s2 + latitude + tsssXlat.s + tsss2Xlat.s + ordinal.s + julianXlat.s ~ 1,9,23,20,3600,60,TSSS,2.250295496,-5.548625104,10.0492161
+Temperature,~ordinal.s + latitude + julianXlat.s + temp.s ~ 1,6,23,20,180,3,TSSS,0,0,0
+TSSS.quadratic,~tsss.s + tsss.s2 ~ 1,4,23,20,360,6,TSSS,-1.386407709,-2.59541024,-0.177405178
+TSSS.JulianXlat.linear,~tsss.s + latitude + tsssXlat.s + ordinal.s + julianXlat.s ~ 1,7,23,20,600,10,TSSS^2,0,0,0
+TSSS.JulianXlat.linear,~tsss.s + ordinal.s + latitude + julianXlat.s ~ 1,6,23,20,900,15,TSSS^2,0,0,0
+TSSS.JulianXlat.linear,~tsss.s + tsss.s2 + latitude + tsssXlat.s + tsss2Xlat.s + ordinal.s + julianXlat.s ~ 1,9,23,20,3600,60,TSSS^2,-6.669395921,-16.18926804,2.850476201
+Temperature,~ordinal.s + latitude + julianXlat.s + temp.s ~ 1,6,23,20,180,3,TSSS^2,0,0,0
+TSSS.quadratic,~tsss.s + tsss.s2 ~ 1,4,23,20,360,6,TSSS^2,1.030329829,-0.31832046,2.378980117
+TSSS.JulianXlat.linear,~tsss.s + latitude + tsssXlat.s + ordinal.s + julianXlat.s ~ 1,7,23,20,600,10,TSSS*Latitude,-3.134719582,-8.071918643,1.802479478
+TSSS.JulianXlat.linear,~tsss.s + ordinal.s + latitude + julianXlat.s ~ 1,6,23,20,900,15,TSSS*Latitude,0,0,0
+TSSS.JulianXlat.linear,~tsss.s + tsss.s2 + latitude + tsssXlat.s + tsss2Xlat.s + ordinal.s + julianXlat.s ~ 1,9,23,20,3600,60,TSSS*Latitude,-3.361502655,-10.84547139,4.122466082
+Temperature,~ordinal.s + latitude + julianXlat.s + temp.s ~ 1,6,23,20,180,3,TSSS*Latitude,0,0,0
+TSSS.quadratic,~tsss.s + tsss.s2 ~ 1,4,23,20,360,6,TSSS*Latitude,0,0,0
+TSSS.JulianXlat.linear,~tsss.s + latitude + tsssXlat.s + ordinal.s + julianXlat.s ~ 1,7,23,20,600,10,TSSS^2*Latitude,0,0,0
+TSSS.JulianXlat.linear,~tsss.s + ordinal.s + latitude + julianXlat.s ~ 1,6,23,20,900,15,TSSS^2*Latitude,0,0,0
+TSSS.JulianXlat.linear,~tsss.s + tsss.s2 + latitude + tsssXlat.s + tsss2Xlat.s + ordinal.s + julianXlat.s ~ 1,9,23,20,3600,60,TSSS^2*Latitude,7.605384209,-1.550164207,16.76093262
+Temperature,~ordinal.s + latitude + julianXlat.s + temp.s ~ 1,6,23,20,180,3,TSSS^2*Latitude,0,0,0
+TSSS.quadratic,~tsss.s + tsss.s2 ~ 1,4,23,20,360,6,TSSS^2*Latitude,0,0,0
+TSSS.JulianXlat.linear,~tsss.s + latitude + tsssXlat.s + ordinal.s + julianXlat.s ~ 1,7,23,20,600,10,Psi,0.324031042,-0.762024319,1.410086403
+TSSS.JulianXlat.linear,~tsss.s + ordinal.s + latitude + julianXlat.s ~ 1,6,23,20,900,15,Psi,-0.137725769,-1.009986732,0.734535193
+TSSS.JulianXlat.linear,~tsss.s + tsss.s2 + latitude + tsssXlat.s + tsss2Xlat.s + ordinal.s + julianXlat.s ~ 1,9,23,20,3600,60,Psi,0.852912436,-0.05274867,1.758573542
+Temperature,~ordinal.s + latitude + julianXlat.s + temp.s ~ 1,6,23,20,180,3,Psi,-0.388782387,-1.583694728,0.806129954
+TSSS.quadratic,~tsss.s + tsss.s2 ~ 1,4,23,20,360,6,Psi,-0.058341451,-1.097175817,0.980492915

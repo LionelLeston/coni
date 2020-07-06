@@ -1,0 +1,51 @@
+﻿model,formula,nPars,n,samplenum,duration,duration.min,Predictor,EffectSize,LCL,UCL
+TSSS.Julian.linear,~tsss.s + latitude + tsssXlat.s + ordinal.s ~ 1,6,23,12,600,10,Intercept,-1.565586096,-2.045720673,-1.08545152
+TSSS.JulianXlat.linear,~latitude + ordinal.s + julianXlat.s ~ 1,5,23,12,900,15,Intercept,-1.561969085,-2.103672407,-1.020265763
+TSSS.Julian.quadratic,~tsss.s + tsss.s2 + latitude + tsssXlat.s + tsss2Xlat.s + ordinal.s + ordinal.s2 ~ 1,9,23,12,3600,60,Intercept,-0.460378651,-0.797979177,-0.122778125
+Julian.quadratic,~ordinal.s + ordinal.s2 ~ 1,4,23,12,180,3,Intercept,-1.703945619,-2.302900396,-1.104990843
+Latitude,~latitude ~ 1,3,23,12,360,6,Intercept,-1.926432906,-2.441188244,-1.411677568
+TSSS.Julian.linear,~tsss.s + latitude + tsssXlat.s + ordinal.s ~ 1,6,23,12,600,10,Ordinal Day,-0.497083262,-0.975398372,-0.018768152
+TSSS.JulianXlat.linear,~latitude + ordinal.s + julianXlat.s ~ 1,5,23,12,900,15,Ordinal Day,-7.509300211,-13.29080221,-1.727798211
+TSSS.Julian.quadratic,~tsss.s + tsss.s2 + latitude + tsssXlat.s + tsss2Xlat.s + ordinal.s + ordinal.s2 ~ 1,9,23,12,3600,60,Ordinal Day,6.922660437,-1.274892093,15.12021297
+Julian.quadratic,~ordinal.s + ordinal.s2 ~ 1,4,23,12,180,3,Ordinal Day,11.09582925,-1.986273182,24.17793168
+Latitude,~latitude ~ 1,3,23,12,360,6,Ordinal Day,0,0,0
+TSSS.Julian.linear,~tsss.s + latitude + tsssXlat.s + ordinal.s ~ 1,6,23,12,600,10,Ordinal Day^2,0,0,0
+TSSS.JulianXlat.linear,~latitude + ordinal.s + julianXlat.s ~ 1,5,23,12,900,15,Ordinal Day^2,0,0,0
+TSSS.Julian.quadratic,~tsss.s + tsss.s2 + latitude + tsssXlat.s + tsss2Xlat.s + ordinal.s + ordinal.s2 ~ 1,9,23,12,3600,60,Ordinal Day^2,-7.189381706,-15.44452008,1.065756668
+Julian.quadratic,~ordinal.s + ordinal.s2 ~ 1,4,23,12,180,3,Ordinal Day^2,-11.69572818,-25.08371904,1.692262685
+Latitude,~latitude ~ 1,3,23,12,360,6,Ordinal Day^2,0,0,0
+TSSS.Julian.linear,~tsss.s + latitude + tsssXlat.s + ordinal.s ~ 1,6,23,12,600,10,Latitude,0.691137759,0.123416058,1.25885946
+TSSS.JulianXlat.linear,~latitude + ordinal.s + julianXlat.s ~ 1,5,23,12,900,15,Latitude,-7.542498797,-13.64124286,-1.443754736
+TSSS.Julian.quadratic,~tsss.s + tsss.s2 + latitude + tsssXlat.s + tsss2Xlat.s + ordinal.s + ordinal.s2 ~ 1,9,23,12,3600,60,Latitude,0.698522254,0.125683746,1.271360762
+Julian.quadratic,~ordinal.s + ordinal.s2 ~ 1,4,23,12,180,3,Latitude,0,0,0
+Latitude,~latitude ~ 1,3,23,12,360,6,Latitude,0.441442367,0.010219407,0.872665326
+TSSS.Julian.linear,~tsss.s + latitude + tsssXlat.s + ordinal.s ~ 1,6,23,12,600,10,Ordinal Day*Latitude,0,0,0
+TSSS.JulianXlat.linear,~latitude + ordinal.s + julianXlat.s ~ 1,5,23,12,900,15,Ordinal Day*Latitude,9.52173994,2.382395181,16.6610847
+TSSS.Julian.quadratic,~tsss.s + tsss.s2 + latitude + tsssXlat.s + tsss2Xlat.s + ordinal.s + ordinal.s2 ~ 1,9,23,12,3600,60,Ordinal Day*Latitude,0,0,0
+Julian.quadratic,~ordinal.s + ordinal.s2 ~ 1,4,23,12,180,3,Ordinal Day*Latitude,0,0,0
+Latitude,~latitude ~ 1,3,23,12,360,6,Ordinal Day*Latitude,0,0,0
+TSSS.Julian.linear,~tsss.s + latitude + tsssXlat.s + ordinal.s ~ 1,6,23,12,600,10,TSSS,3.714392652,-1.020768622,8.449553927
+TSSS.JulianXlat.linear,~latitude + ordinal.s + julianXlat.s ~ 1,5,23,12,900,15,TSSS,0,0,0
+TSSS.Julian.quadratic,~tsss.s + tsss.s2 + latitude + tsssXlat.s + tsss2Xlat.s + ordinal.s + ordinal.s2 ~ 1,9,23,12,3600,60,TSSS,4.839066846,-5.796782462,15.47491615
+Julian.quadratic,~ordinal.s + ordinal.s2 ~ 1,4,23,12,180,3,TSSS,0,0,0
+Latitude,~latitude ~ 1,3,23,12,360,6,TSSS,0,0,0
+TSSS.Julian.linear,~tsss.s + latitude + tsssXlat.s + ordinal.s ~ 1,6,23,12,600,10,TSSS^2,0,0,0
+TSSS.JulianXlat.linear,~latitude + ordinal.s + julianXlat.s ~ 1,5,23,12,900,15,TSSS^2,0,0,0
+TSSS.Julian.quadratic,~tsss.s + tsss.s2 + latitude + tsssXlat.s + tsss2Xlat.s + ordinal.s + ordinal.s2 ~ 1,9,23,12,3600,60,TSSS^2,-7.644424483,-19.61691092,4.328061951
+Julian.quadratic,~ordinal.s + ordinal.s2 ~ 1,4,23,12,180,3,TSSS^2,0,0,0
+Latitude,~latitude ~ 1,3,23,12,360,6,TSSS^2,0,0,0
+TSSS.Julian.linear,~tsss.s + latitude + tsssXlat.s + ordinal.s ~ 1,6,23,12,600,10,TSSS*Latitude,-3.979403824,-8.591667331,0.632859683
+TSSS.JulianXlat.linear,~latitude + ordinal.s + julianXlat.s ~ 1,5,23,12,900,15,TSSS*Latitude,0,0,0
+TSSS.Julian.quadratic,~tsss.s + tsss.s2 + latitude + tsssXlat.s + tsss2Xlat.s + ordinal.s + ordinal.s2 ~ 1,9,23,12,3600,60,TSSS*Latitude,-6.24167083,-16.68994127,4.206599608
+Julian.quadratic,~ordinal.s + ordinal.s2 ~ 1,4,23,12,180,3,TSSS*Latitude,0,0,0
+Latitude,~latitude ~ 1,3,23,12,360,6,TSSS*Latitude,0,0,0
+TSSS.Julian.linear,~tsss.s + latitude + tsssXlat.s + ordinal.s ~ 1,6,23,12,600,10,TSSS^2*Latitude,0,0,0
+TSSS.JulianXlat.linear,~latitude + ordinal.s + julianXlat.s ~ 1,5,23,12,900,15,TSSS^2*Latitude,0,0,0
+TSSS.Julian.quadratic,~tsss.s + tsss.s2 + latitude + tsssXlat.s + tsss2Xlat.s + ordinal.s + ordinal.s2 ~ 1,9,23,12,3600,60,TSSS^2*Latitude,8.933923928,-2.874630797,20.74247865
+Julian.quadratic,~ordinal.s + ordinal.s2 ~ 1,4,23,12,180,3,TSSS^2*Latitude,0,0,0
+Latitude,~latitude ~ 1,3,23,12,360,6,TSSS^2*Latitude,0,0,0
+TSSS.Julian.linear,~tsss.s + latitude + tsssXlat.s + ordinal.s ~ 1,6,23,12,600,10,Psi,0.898324244,-0.287489817,2.084138305
+TSSS.JulianXlat.linear,~latitude + ordinal.s + julianXlat.s ~ 1,5,23,12,900,15,Psi,0.618561677,-0.584787615,1.821910969
+TSSS.Julian.quadratic,~tsss.s + tsss.s2 + latitude + tsssXlat.s + tsss2Xlat.s + ordinal.s + ordinal.s2 ~ 1,9,23,12,3600,60,Psi,1.059989622,0.116100745,2.003878499
+Julian.quadratic,~ordinal.s + ordinal.s2 ~ 1,4,23,12,180,3,Psi,0.298178615,-0.759999516,1.356356746
+Latitude,~latitude ~ 1,3,23,12,360,6,Psi,2.240121386,-0.936600726,5.416843499
